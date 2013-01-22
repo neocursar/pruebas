@@ -1,0 +1,12 @@
+addEmptyValue:1,
+dataProviderID1:"model_id",
+dataProviderID2:"req_model_ref",
+dataProviderID3:"description",
+dataSource:"db:/nc_model_prices/models",
+name:"models_list",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"req_model_ref asc",
+typeid:34,
+uuid:"47CCE977-D619-4D14-8042-67CA63EBCFFF",
+valueListType:1

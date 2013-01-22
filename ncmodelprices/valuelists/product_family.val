@@ -1,0 +1,11 @@
+addEmptyValue:1,
+dataProviderID1:"product_family_id",
+dataProviderID2:"name",
+dataProviderID3:"line_position",
+dataSource:"db:/nc_model_prices/products_family",
+name:"product_family",
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"6A7F62BA-AC6B-44F7-B1FC-13DEBA10F5A9",
+valueListType:1

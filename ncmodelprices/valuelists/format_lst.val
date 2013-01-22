@@ -1,0 +1,9 @@
+addEmptyValue:1,
+customValues:"i18n:vlt.status.rolls
+i18n:vlt.status.box
+",
+name:"format_lst",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"A93495A9-745A-4824-8835-3A4D2F95D6A1"

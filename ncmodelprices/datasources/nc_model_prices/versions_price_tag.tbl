@@ -1,0 +1,5 @@
+dataSource:"db:/nc_model_prices/versions_price_tag",
+onAfterInsertMethodID:"4B1C2F0D-F3BF-414C-9170-142B81DA1155",
+onAfterUpdateMethodID:"89C9A452-E646-44F6-A095-A00E71641C68",
+typeid:39,
+uuid:"F86B427E-1E13-4035-B9B5-25ECD6A42997"

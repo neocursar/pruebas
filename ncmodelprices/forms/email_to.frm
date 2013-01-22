@@ -1,0 +1,46 @@
+dataSource:"db:/nc_model_prices/models_versions",
+items:[
+{
+displaysTags:true,
+location:"5,5",
+size:"378,20",
+text:"%%i18n:label.email%% %%i18n:label.of%% %%scopes.globals._emailFrom%% %%i18n:label.for%% ",
+toolTipText:"Emails destino separados por coma, ejemplo juanjose@saroni.info, hector@saroni.info",
+transparent:true,
+typeid:7,
+uuid:"29587F0B-C027-49ED-A48D-F633DDE155EA"
+},
+{
+dataProviderID:"scopes.globals._emailTo",
+location:"5,27",
+size:"378,20",
+toolTipText:"Emails destino separados por coma, ejemplo juanjose@saroni.info, hector@saroni.info",
+typeid:4,
+uuid:"C98BDAD0-4B62-4450-BE52-98FE4F6FD4DA",
+valuelistID:"FEDDB631-4FC2-4CD9-8371-70A76D76C845"
+},
+{
+location:"286,106",
+onActionMethodID:"FF3F2828-3B2F-4BF9-A87D-3A1F9C14964A",
+onDoubleClickMethodID:"-1",
+onRightClickMethodID:"-1",
+size:"97,20",
+text:"i18n:toolbar.email",
+typeid:7,
+uuid:"E0B0374E-4B90-47AF-B452-D99A46196D45"
+},
+{
+height:136,
+partType:5,
+typeid:19,
+uuid:"EADBEAE5-81BA-447A-8C1B-E1FF73EE840F"
+}
+],
+name:"email_to",
+navigatorID:"-1",
+scrollbars:36,
+size:"393,134",
+styleClass:"main",
+styleName:"model_forms",
+typeid:3,
+uuid:"19FD0FC8-3D0F-4264-9DA4-7F2E9AAF954C"

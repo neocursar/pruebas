@@ -1,0 +1,12 @@
+dataSource:"db:/nc_model_prices/basic_price_tag",
+items:[
+{
+dataProviderIDToAggregate:"line_position",
+name:"count_lines",
+typeid:40,
+uuid:"D4FAB20D-9D47-4E87-919F-5D7E3CF658BA"
+}
+],
+onInsertMethodID:"0B078D6D-3384-43DE-BFE6-1F81A30D9398",
+typeid:39,
+uuid:"2F4609C9-F214-415F-9633-F45633AE8F99"

@@ -1,0 +1,12 @@
+addEmptyValue:1,
+customValues:"i18n:vlt.status.ok
+i18n:vlt.status.pendingreview
+i18n:vlt.status.revised
+i18n:vlt.status.accepted
+i18n:vlt.status.purchased
+i18n:vlt.status.canceled",
+name:"status",
+returnDataProviders:1,
+showDataProviders:1,
+typeid:34,
+uuid:"FB5C5AA0-BC84-4AA3-A89F-79E48FA4635C"

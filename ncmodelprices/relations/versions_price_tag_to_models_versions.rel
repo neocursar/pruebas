@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/nc_model_prices/models_versions",
+items:[
+{foreignColumnName:"models_version_id",primaryDataProviderID:"models_version_id",typeid:23,uuid:"D8B5914B-2551-4B62-8962-6922EE20E412"}
+],
+joinType:1,
+name:"versions_price_tag_to_models_versions",
+primaryDataSource:"db:/nc_model_prices/versions_price_tag",
+typeid:22,
+uuid:"C97534AC-C925-42A2-BBB1-98157CFBF004"

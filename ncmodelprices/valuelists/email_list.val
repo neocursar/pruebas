@@ -1,0 +1,11 @@
+addEmptyValue:1,
+dataProviderID1:"user_email",
+dataProviderID2:"user_email",
+dataSource:"db:/nc_model_prices/users",
+name:"email_list",
+returnDataProviders:1,
+showDataProviders:1,
+sortOptions:"user_name asc",
+typeid:34,
+uuid:"FEDDB631-4FC2-4CD9-8371-70A76D76C845",
+valueListType:1

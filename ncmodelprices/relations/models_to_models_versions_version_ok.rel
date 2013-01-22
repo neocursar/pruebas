@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/nc_model_prices/models_versions",
+items:[
+{foreignColumnName:"model_id",primaryDataProviderID:"model_id",typeid:23,uuid:"6F95385B-7813-41B3-B6B9-4CA6D89A8493"},
+{foreignColumnName:"version_ok",primaryDataProviderID:"LITERAL:1",typeid:23,uuid:"9E703C0C-46F4-4142-A986-908EB4238912"}
+],
+joinType:1,
+name:"models_to_models_versions_version_ok",
+primaryDataSource:"db:/nc_model_prices/models",
+typeid:22,
+uuid:"DB2EBCE9-9D9D-499D-945E-950244A0AF7B"

@@ -1,0 +1,12 @@
+dataSource:"db:/nc_model_prices/products_family",
+items:[
+{
+dataProviderIDToAggregate:"line_position",
+name:"count_lines",
+typeid:40,
+uuid:"239F94E2-A7F4-43FB-970A-943B7DD6FBF3"
+}
+],
+onInsertMethodID:"FEFCA172-6F1F-42A3-823D-BA1F6EDD2169",
+typeid:39,
+uuid:"738B422C-CED5-4763-B1E3-D213787EDE92"

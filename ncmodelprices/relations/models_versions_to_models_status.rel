@@ -1,0 +1,11 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/nc_model_prices/models_status",
+initialSort:"req_status_name asc",
+items:[
+{foreignColumnName:"models_status_id",primaryDataProviderID:"models_status_id",typeid:23,uuid:"550D797E-BE63-443C-9E94-5BF07F2CC3CF"}
+],
+joinType:1,
+name:"models_versions_to_models_status",
+primaryDataSource:"db:/nc_model_prices/models_versions",
+typeid:22,
+uuid:"D8E05369-DA77-4490-A6E4-86D9786AD645"
