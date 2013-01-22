@@ -351,7 +351,7 @@ uuid:"CE33C349-8137-4B02-9A3E-10461E48A692"
 anchors:7,
 formIndex:1,
 imageMediaID:"F43826A2-F61F-40EA-BAA0-F137D1A893EC",
-location:"640,26",
+location:"637,24",
 name:"btn_frm",
 onActionMethodID:"97CA5F4A-5F3A-45A7-ABEF-8A0B272183BB",
 onDoubleClickMethodID:"-1",
